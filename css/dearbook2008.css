@@ -1,0 +1,888 @@
+BODY {
+	FONT-SIZE: 12px; BACKGROUND: #628fb6; MARGIN: 0px
+}
+ IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.clear1 {
+	CLEAR: both; OVERFLOW: hidden; LINE-HEIGHT: 1px; HEIGHT: 1px
+}
+.clear0 {
+	CLEAR: both; OVERFLOW: hidden
+}
+ LI {
+	LIST-STYLE-POSITION: outside; LIST-STYLE-TYPE: none
+}
+ UL {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0px
+}
+ OL {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+A {
+	COLOR: #31516b
+}
+.head {
+	BACKGROUND: #fff; MARGIN: 0px auto; WIDTH: 961px; FONT-FAMILY: Arial, "ËÎÌו"
+}
+.foot {
+	BACKGROUND: #fff; MARGIN: 0px auto; WIDTH: 961px; FONT-FAMILY: Arial, "ËÎÌו"
+}
+.content {
+	BACKGROUND: #fff; MARGIN: 0px auto; WIDTH: 961px; FONT-FAMILY: Arial, "ËÎÌו"
+}
+.head_left {
+	FLOAT: left; WIDTH: 290px
+}
+.head_right {
+	MARGIN-LEFT: 293px
+}
+.head_left SPAN {
+	DISPLAY: block; MARGIN: 7px 0px 0px 11px; COLOR: #6b7ea4; LETTER-SPACING: 1px
+}
+.head_right_nei {
+	FLOAT: left; WIDTH: 668px
+}
+.head_right_nei {
+	WIDTH: 664px
+}
+.head_top {
+	MARGIN: 3px 0px 0px; COLOR: #576976; LINE-HEIGHT: 33px; HEIGHT: 33px
+}
+.head_buy {
+	FLOAT: right; WIDTH: 240px; COLOR: #628fb6; MARGIN-RIGHT: 5px
+}
+.head_buy A {
+	COLOR: #628fb6; TEXT-DECORATION: none
+}
+.head_top IMG {
+	DISPLAY: block; FLOAT: left; MARGIN: 8px 5px 0px 0px
+}
+.head_middle {
+	MARGIN: 6px 0px; LINE-HEIGHT: 23px; HEIGHT: 23px
+}
+.head_middle IMG {
+	DISPLAY: block; FLOAT: left
+}
+.head_bottom {
+	MARGIN: 16px 0px 0px; COLOR: #0569ae; HEIGHT: 22px
+}
+.head_bottom INPUT {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 23px; FONT-SIZE: 12px; BACKGROUND: url(/dearbook2008/images/search01.jpg) no-repeat 2px 2px; FLOAT: left; PADDING-BOTTOM: 2px; WIDTH: 430px; COLOR: blue; PADDING-TOP: 2px
+}
+.head_bottom IMG {
+	DISPLAY: block; FLOAT: left
+}
+.head_bottom SPAN {
+	DISPLAY: block; FLOAT: left
+}
+.head_bottom SPAN {
+	MARGIN: 3px 0px 0px 3px
+}
+.foot_box {
+	CLEAR: both; BORDER-RIGHT: #dfe0e8 3px solid; PADDING-RIGHT: 10px; BORDER-TOP: #dfe0e8 3px solid; PADDING-LEFT: 10px; BACKGROUND: #f0f0f0; PADDING-BOTTOM: 7px; MARGIN: 0px auto 5px; BORDER-LEFT: #dfe0e8 3px solid; WIDTH: 920px; COLOR: #3d3d3c; PADDING-TOP: 7px; BORDER-BOTTOM: #dfe0e8 3px solid
+}
+.foot_bk {
+	BORDER-RIGHT: #d7d7d7 1px solid; BORDER-TOP: #d7d7d7 1px solid; BACKGROUND: url(/dearbook2008/images/point_gray.jpg) #fff repeat-x 0px 20px; MARGIN: 11px 0px; BORDER-LEFT: #d7d7d7 1px solid; COLOR: #404040; BORDER-BOTTOM: #d7d7d7 1px solid
+}
+.foot_point {
+	BACKGROUND: url(/dearbook2008/images/point04.jpg) no-repeat right bottom; LINE-HEIGHT: 26px; HEIGHT: 26px
+}
+.foot_list1 {
+	BORDER-RIGHT: #dbdbdb 1px dashed; PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 3px; PADDING-TOP: 1px
+}
+.foot_list2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 3px; PADDING-TOP: 1px
+}
+.foot_left {
+	DISPLAY: block; FLOAT: left; TEXT-ALIGN: left
+}
+.content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 20px
+}
+.left {
+	PADDING-LEFT: 6px; FLOAT: left; WIDTH: 157px
+}
+.right {
+	MARGIN-LEFT: 179px
+}
+.right_box {
+	FLOAT: left
+}
+.left2_info_box {
+	FLOAT: left
+}
+.list_box {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; BACKGROUND: #eceff4; MARGIN-BOTTOM: 15px; PADDING-BOTTOM: 1px; WIDTH: 155px; PADDING-TOP: 1px
+}
+.list_bk {
+	BORDER-RIGHT: #9ca5cc 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #9ca5cc 1px solid; PADDING-LEFT: 1px; BACKGROUND: #fff; PADDING-BOTTOM: 5px; BORDER-LEFT: #9ca5cc 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #9ca5cc 1px solid
+}
+.list_title {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: url(/dearbook2008/images/left_title.jpg) repeat-x; MARGIN-BOTTOM: 13px; PADDING-BOTTOM: 0px; COLOR: #fff; LINE-HEIGHT: 23px; PADDING-TOP: 0px; HEIGHT: 23px
+}
+.list_bk UL {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; PADDING-BOTTOM: 0px; WIDTH: 135px; PADDING-TOP: 0px
+}
+.point02 LI {
+	PADDING-LEFT: 10px; BACKGROUND: url(/dearbook2008/images/point02.jpg) no-repeat 0px 5px; MARGIN-BOTTOM: 6px
+}
+.list_info {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+.left_more {
+	MARGIN: 10px 0px; COLOR: #ae6e09
+}
+.banner {
+	FLOAT: left; MARGIN-BOTTOM: 15px; WIDTH: 502px
+}
+ HTML .banner {
+	MARGIN: 0px
+}
+.banner_box {
+	BORDER-RIGHT: #cebf9c 1px solid; PADDING-RIGHT: 15px; PADDING-LEFT: 15px; BACKGROUND: #fffcf5; PADDING-BOTTOM: 8px; BORDER-LEFT: #cebf9c 1px solid; WIDTH: 470px; PADDING-TOP: 8px
+}
+.kx {
+	MARGIN: 0px 0px 15px 518px
+}
+.kx .point_brown {
+	FLOAT: left; WIDTH: 247px
+}
+.point_brown LI {
+	PADDING-LEFT: 10px; BACKGROUND: url(/dearbook2008/images/point_brown.jpg) no-repeat 0px 6px; MARGIN-BOTTOM: 5px
+}
+.info_bk1 {
+	BORDER-RIGHT: #dfe0e8 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #dfe0e8 1px solid; PADDING-LEFT: 0px; BACKGROUND: #fafcfe; PADDING-BOTTOM: 13px; MARGIN: 0px 0px 20px 7px; BORDER-LEFT: #dfe0e8 1px solid; WIDTH: 761px; PADDING-TOP: 13px; BORDER-BOTTOM: #dfe0e8 1px solid
+}
+.xh5 {
+	PADDING-RIGHT: 11px; PADDING-LEFT: 11px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 130px; PADDING-TOP: 0px; TEXT-ALIGN: center
+}
+.xh5 IMG {
+	MARGIN-BOTTOM: 10px
+}
+.info_bk2 {
+	BORDER-RIGHT: #dfe0e8 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #dfe0e8 1px solid; PADDING-LEFT: 0px; BACKGROUND: #fff; PADDING-BOTTOM: 13px; MARGIN: 0px 0px 20px 7px; BORDER-LEFT: #dfe0e8 1px solid; WIDTH: 761px; PADDING-TOP: 13px; BORDER-BOTTOM: #dfe0e8 1px solid
+}
+.num1 {
+	BACKGROUND: url(/dearbook2008/images/num1.jpg) no-repeat 10px 0px
+}
+.num2 {
+	BACKGROUND: url(/dearbook2008/images/num2.jpg) no-repeat 10px 0px
+}
+.num3 {
+	BACKGROUND: url(/dearbook2008/images/num3.jpg) no-repeat 10px 0px
+}
+.ol4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 280px; COLOR: #34526b; PADDING-TOP: 0px
+}
+.ol4 LI {
+	LIST-STYLE-POSITION: inside; MARGIN-BOTTOM: 4px; LIST-STYLE-TYPE: decimal
+}
+.info_bk3 {
+	BORDER-RIGHT: #dfe0e8 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #dfe0e8 1px solid; PADDING-LEFT: 10px; BACKGROUND: url(/dearbook2008/images/bk_bg.jpg) #f0f4fb repeat-x 50% top; PADDING-BOTTOM: 10px; MARGIN: 0px 0px 20px 7px; BORDER-LEFT: #dfe0e8 1px solid; WIDTH: 741px; PADDING-TOP: 10px; BORDER-BOTTOM: #dfe0e8 1px solid
+}
+.info_bk3_left {
+	FLOAT: left; WIDTH: 392px
+}
+.info_bk3_right {
+	FONT-SIZE: 14px; MARGIN-LEFT: 410px; WIDTH: 328px
+}
+.info_bk3_shupi {
+	BORDER-RIGHT: #536595 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #536595 1px solid; PADDING-LEFT: 2px; FLOAT: left; PADDING-BOTTOM: 2px; BORDER-LEFT: #536595 1px solid; WIDTH: 38px; PADDING-TOP: 2px; BORDER-BOTTOM: #536595 1px solid
+}
+.info_bk3_shupi IMG {
+	WIDTH: 38px
+}
+.info_bk3_info {
+	MARGIN-LEFT: 50px
+}
+.info_bk3_line {
+	CLEAR: both; BACKGROUND: #d2d4d6; MARGIN: 10px 0px 6px; OVERFLOW: hidden; LINE-HEIGHT: 1px; HEIGHT: 1px
+}
+.info_bk3_right UL {
+	FLOAT: left
+}
+.info_bk3_right UL LI {
+	DISPLAY: block; FLOAT: left
+}
+.float88 {
+	WIDTH: 88px
+}
+.float230 {
+	WIDTH: 232px
+}
+.info_bk1_fd {
+	PADDING-RIGHT: 13px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 230px; PADDING-TOP: 0px
+}
+.info_bk1_shupi {
+	BORDER-RIGHT: #536595 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #536595 1px solid; PADDING-LEFT: 2px; FLOAT: left; PADDING-BOTTOM: 2px; BORDER-LEFT: #536595 1px solid; WIDTH: 56px; PADDING-TOP: 2px; BORDER-BOTTOM: #536595 1px solid
+}
+.info_bk1_shupi IMG {
+	WIDTH: 56px
+}
+.info_bk1_info {
+	MARGIN-LEFT: 65px
+}
+.info_gray12 {
+	CLEAR: both; MARGIN-TOP: 10px; DISPLAY: block; COLOR: #5b5b5b
+}
+.left2 {
+	PADDING-LEFT: 16px; FLOAT: left; WIDTH: 764px
+}
+.right2 {
+	MARGIN-LEFT: 796px
+}
+.solid3 {
+	BORDER-BOTTOM: #e9e9e9 3px solid
+}
+.left2_shupi {
+	FLOAT: left; WIDTH: 142px
+}
+.left2_info {
+	MARGIN-LEFT: 160px
+}
+.dashed1 {
+	BACKGROUND: url(/dearbook2008/images/line01.jpg) repeat-x; MARGIN: 5px 0px; OVERFLOW: hidden; LINE-HEIGHT: 1px; HEIGHT: 1px
+}
+.left2_buy {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-TOP: 0px
+}
+.left2_jj {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 155px; PADDING-BOTTOM: 0px; MARGIN: 10px 0px 0px; WIDTH: 610px; PADDING-TOP: 0px
+}
+.left2_bk {
+	CLEAR: both; BORDER-RIGHT: #9a9a3c 2px solid; PADDING-RIGHT: 14px; BORDER-TOP: #9a9a3c 2px solid; PADDING-LEFT: 14px; PADDING-BOTTOM: 12px; BORDER-LEFT: #9a9a3c 2px solid; LINE-HEIGHT: 18pt; PADDING-TOP: 12px; BORDER-BOTTOM: #9a9a3c 2px solid
+}
+.left2_bk H2 {
+	MARGIN-BOTTOM: 8px
+}
+.point_blue LI {
+	PADDING-LEFT: 10px; BACKGROUND: url(/dearbook2008/images/point_blue.jpg) no-repeat 0px 5px; MARGIN-BOTTOM: 6px
+}
+.search01 {
+	BACKGROUND: url(/dearbook2008/images/search_bg2.jpg) repeat-x; MARGIN: 0px auto 10px; WIDTH: 944px; LINE-HEIGHT: 25px; HEIGHT: 25px
+}
+.search02 {
+	MARGIN: 0px auto 10px; WIDTH: 944px
+}
+.search02_div {
+	BORDER-RIGHT: #dfdfdf 1px solid; PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #dfdfdf 1px solid; LINE-HEIGHT: 20px; PADDING-TOP: 10px
+}
+.search02_div .dashed1 {
+	MARGIN: 10px 0px 8px
+}
+.fy_left {
+	FLOAT: left; MARGIN-BOTTOM: 5px; WIDTH: 360px
+}
+.fy_right {
+	MARGIN-BOTTOM: 5px; MARGIN-LEFT: 360px
+}
+.fy_right IMG {
+	MARGIN: 0px 2px
+}
+.tw_bk {
+	BORDER-RIGHT: #dfdfdf 3px solid; PADDING-RIGHT: 8px; BORDER-TOP: #dfdfdf 3px solid; PADDING-LEFT: 8px; PADDING-BOTTOM: 15px; BORDER-LEFT: #dfdfdf 3px solid; WIDTH: 742px; PADDING-TOP: 15px; BORDER-BOTTOM: #dfdfdf 3px solid
+}
+.tw_left {
+	FLOAT: left; WIDTH: 120px
+}
+.tw_left_num {
+	DISPLAY: block; FLOAT: left; COLOR: #484848
+}
+.tw_left_num2 {
+	DISPLAY: block; FLOAT: left; COLOR: #484848
+}
+.tw_left_num2 {
+	BACKGROUND: url(/dearbook2008/images/num.jpg) no-repeat left top; FONT: bold 12px Arial, Helvetica, sans-serif; WIDTH: 18px; PADDING-TOP: 2px; HEIGHT: 26px; TEXT-ALIGN: center
+}
+.tw_left IMG {
+	DISPLAY: block; MARGIN-LEFT: 31px
+}
+.tw_right {
+	MARGIN-LEFT: 140px
+}
+.tw_right_box {
+	FLOAT: left; WIDTH: 600px; LINE-HEIGHT: 22px
+}
+.tw_right_buy {
+	MARGIN: 10px 0px 0px; COLOR: #444; TEXT-ALIGN: right
+}
+.tw_bk .dashed1 {
+	CLEAR: both; MARGIN: 10px 0px 20px
+}
+ HTML .tw_bk .dashed1 {
+	MARGIN: -8px 0px 20px
+}
+.fy {
+	COLOR: #414141; TEXT-ALIGN: center
+}
+.rank_title {
+	
+}
+.rank_title DIV {
+	BACKGROUND: #bba980
+}
+.rank_xs {
+	MARGIN-BOTTOM: 20px; PADDING-BOTTOM: 10px; COLOR: #111; BORDER-BOTTOM: #628fb6 1px solid
+}
+.rank_xs2 {
+	DISPLAY: block; FLOAT: right; WIDTH: 110px; TEXT-ALIGN: right
+}
+.blue003e93 {
+	COLOR: #003e93
+}
+.orange12b {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ff5d13
+}
+.orange12 {
+	FONT-SIZE: 12px; COLOR: #ff5d13
+}
+.orange14b {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #f09401
+}
+.orange14 {
+	FONT-SIZE: 14px; COLOR: #ff5d13
+}
+.green14b {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #5b6f1b
+}
+.redf00 {
+	COLOR: #f00
+}
+.gray12italic {
+	COLOR: #787878; FONT-STYLE: italic
+}
+.black14b {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000; LINE-HEIGHT: 22px
+}
+.black14 {
+	FONT-SIZE: 14px; COLOR: #000
+}
+.gray12 {
+	COLOR: #787878
+}
+.dodgerbluea:link {
+	COLOR: #1279bf; TEXT-DECORATION: none
+}
+.dodgerbluea:visited {
+	COLOR: #1279bf; TEXT-DECORATION: none
+}
+.cornflowerbluea:link {
+	COLOR: #628fb6; TEXT-DECORATION: none
+}
+.cornflowerbluea:visited {
+	COLOR: #628fb6; TEXT-DECORATION: none
+}
+.head_bottom A:link {
+	COLOR: #0569ae; TEXT-DECORATION: none
+}
+.head_bottom A:visited {
+	COLOR: #0569ae; TEXT-DECORATION: none
+}
+.blue34526ba:link {
+	COLOR: #34526b; TEXT-DECORATION: none
+}
+.blue34526ba:visited {
+	COLOR: #34526b; TEXT-DECORATION: none
+}
+.blue012c83a:link {
+	COLOR: #012c83; TEXT-DECORATION: none
+}
+.blue012c83a:visited {
+	COLOR: #012c83; TEXT-DECORATION: none
+}
+.blue012c83a:link {
+	DISPLAY: block; FONT-WEIGHT: bold; MARGIN-BOTTOM: 10px; COLOR: #012c83; TEXT-DECORATION: none
+}
+.blue012c83a:visited {
+	DISPLAY: block; FONT-WEIGHT: bold; MARGIN-BOTTOM: 10px; COLOR: #012c83; TEXT-DECORATION: none
+}
+.foot_bk A:link {
+	COLOR: #404040; TEXT-DECORATION: none
+}
+.foot_bk A:visited {
+	COLOR: #404040; TEXT-DECORATION: none
+}
+.title02:link {
+	PADDING-RIGHT: 7px; DISPLAY: block; PADDING-LEFT: 7px; FONT-SIZE: 12px; BACKGROUND: url(/dearbook2008/images/head_title.jpg) repeat-x 50% bottom; FLOAT: left; PADDING-BOTTOM: 0px; COLOR: #fff; PADDING-TOP: 0px; LETTER-SPACING: 1px; TEXT-DECORATION: none
+}
+.title02:visited {
+	PADDING-RIGHT: 7px; DISPLAY: block; PADDING-LEFT: 7px; FONT-SIZE: 12px; BACKGROUND: url(/dearbook2008/images/head_title.jpg) repeat-x 50% bottom; FLOAT: left; PADDING-BOTTOM: 0px; COLOR: #fff; PADDING-TOP: 0px; LETTER-SPACING: 1px; TEXT-DECORATION: none
+}
+.blue1f3a87a:link {
+	DISPLAY: block; MARGIN-LEFT: 5px; COLOR: #1f3a87; TEXT-DECORATION: none
+}
+.blue1f3a87a:visited {
+	DISPLAY: block; MARGIN-LEFT: 5px; COLOR: #1f3a87; TEXT-DECORATION: none
+}
+.blue1d64b6a:link {
+	COLOR: #1d64b6; TEXT-DECORATION: none
+}
+.blue1d64b6a:visited {
+	COLOR: #1d64b6; TEXT-DECORATION: none
+}
+.gray12a:link {
+	FONT-SIZE: 12px; COLOR: #8e8e8e; TEXT-DECORATION: none
+}
+.gray12a:visited {
+	FONT-SIZE: 12px; COLOR: #8e8e8e; TEXT-DECORATION: none
+}
+.unblue14a:link {
+	FONT-SIZE: 14px; COLOR: #0042d1; TEXT-DECORATION: none
+}
+.unblue14a {
+	FONT-SIZE: 14px; COLOR: #0042d1; TEXT-DECORATION: none
+}
+.dodgerbluea:hover {
+	TEXT-DECORATION: underline
+}
+.cornflowerbluea:hover {
+	TEXT-DECORATION: underline
+}
+.head_bottom A:hover {
+	TEXT-DECORATION: underline
+}
+.blue34526ba:hover {
+	TEXT-DECORATION: underline
+}
+.blue012c83a:hover {
+	TEXT-DECORATION: underline
+}
+.blue012c83a:hover {
+	TEXT-DECORATION: underline
+}
+.foot_bk A:hover {
+	TEXT-DECORATION: underline
+}
+.title02:hover {
+	TEXT-DECORATION: underline
+}
+.blue1f3a87a:hover {
+	TEXT-DECORATION: underline
+}
+.blue1d64b6a:hover {
+	TEXT-DECORATION: underline
+}
+.gray12a:hover {
+	TEXT-DECORATION: underline
+}
+.unblue14a:hover {
+	TEXT-DECORATION: underline
+}
+.gary999 {
+	COLOR: #999
+}
+.gary666 {
+	COLOR: #666
+}
+.gary333 {
+	COLOR: #333
+}
+.garyccc {
+	COLOR: #ccc
+}
+.brownae6e09a:link {
+	COLOR: #ae6e09; TEXT-DECORATION: underline
+}
+.brownae6e09a:visited {
+	COLOR: #ae6e09; TEXT-DECORATION: underline
+}
+.blue12a:link {
+	COLOR: #012c83; LINE-HEIGHT: 18px; TEXT-DECORATION: underline
+}
+.blue12a:visited {
+	COLOR: #012c83; LINE-HEIGHT: 18px; TEXT-DECORATION: underline
+}
+.blue12b:link {
+	COLOR: #012c83; LINE-HEIGHT: 18px; TEXT-DECORATION: none
+}
+.blue12b:visited {
+	COLOR: #012c83; LINE-HEIGHT: 18px; TEXT-DECORATION: none
+}
+.blue12b:hover {
+	TEXT-DECORATION: underline
+}
+.green14ba:hover {
+	TEXT-DECORATION: underline
+}
+.black14a:link {
+	FONT-SIZE: 14px; COLOR: #000; TEXT-DECORATION: underline
+}
+.black14a:visited {
+	FONT-SIZE: 14px; COLOR: #000; TEXT-DECORATION: underline
+}
+.blue14a:link {
+	FONT-SIZE: 14px; COLOR: #03c; TEXT-DECORATION: underline
+}
+.blue14a:visited {
+	FONT-SIZE: 14px; COLOR: #03c; TEXT-DECORATION: underline
+}
+.brownae6e09a:hover {
+	TEXT-DECORATION: none
+}
+.blue12a:hover {
+	TEXT-DECORATION: none
+}
+.black14a:hover {
+	TEXT-DECORATION: none
+}
+.blue14a:hover {
+	TEXT-DECORATION: none
+}
+.title01:link {
+	DISPLAY: block; FONT-WEIGHT: bold; FONT-SIZE: 13px; BACKGROUND: url(/dearbook2008/images/head_title.jpg) repeat-x 50% top; FLOAT: left; COLOR: #e6f4ff; TEXT-DECORATION: none
+}
+.title01:visited {
+	DISPLAY: block; FONT-WEIGHT: bold; FONT-SIZE: 13px; BACKGROUND: url(/dearbook2008/images/head_title.jpg) repeat-x 50% top; FLOAT: left; COLOR: #e6f4ff; TEXT-DECORATION: none
+}
+.title01:hover {
+	BACKGROUND: url(/dearbook2008/images/head_title.jpg) repeat-x 50% bottom; TEXT-DECORATION: none
+}
+.title01 SPAN {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; LETTER-SPACING: -1px
+}
+.title01:link .bg1 {
+	DISPLAY: block; BACKGROUND: url(/dearbook2008/images/head_title01.jpg) no-repeat left top
+}
+.title01:visited .bg1 {
+	DISPLAY: block; BACKGROUND: url(/dearbook2008/images/head_title01.jpg) no-repeat left top
+}
+.title01:hover .bg1 {
+	BACKGROUND: url(/dearbook2008/images/head_title01.jpg) no-repeat left bottom
+}
+.title01:link .bg2 {
+	DISPLAY: block; BACKGROUND: url(/dearbook2008/images/head_title03.jpg) no-repeat right top
+}
+.title01:visited .bg2 {
+	DISPLAY: block; BACKGROUND: url(/dearbook2008/images/head_title03.jpg) no-repeat right top
+}
+.title01:hover .bg2 {
+	BACKGROUND: url(/dearbook2008/images/head_title03.jpg) no-repeat right bottom
+}
+.left2_jj A:link {
+	DISPLAY: block; FONT-SIZE: 12px; BACKGROUND: url(/dearbook2008/images/title02.jpg) no-repeat right bottom; FLOAT: left; MARGIN-LEFT: 2px; COLOR: #525307; TEXT-DECORATION: none
+}
+.left2_jj A:visited {
+	DISPLAY: block; FONT-SIZE: 12px; BACKGROUND: url(/dearbook2008/images/title02.jpg) no-repeat right bottom; FLOAT: left; MARGIN-LEFT: 2px; COLOR: #525307; TEXT-DECORATION: none
+}
+.left2_jj A:hover {
+	BACKGROUND: url(/dearbook2008/images/title02.jpg) no-repeat right top; COLOR: #fff; TEXT-DECORATION: none
+}
+.left2_jj A:link SPAN {
+	PADDING-RIGHT: 8px; DISPLAY: block; PADDING-LEFT: 8px; BACKGROUND: url(/dearbook2008/images/title01.jpg) no-repeat left bottom; PADDING-BOTTOM: 0px; LINE-HEIGHT: 15px; PADDING-TOP: 2px; WHITE-SPACE: nowrap; HEIGHT: 15px
+}
+.left2_jj A:visited SPAN {
+	PADDING-RIGHT: 8px; DISPLAY: block; PADDING-LEFT: 8px; BACKGROUND: url(/dearbook2008/images/title01.jpg) no-repeat left bottom; PADDING-BOTTOM: 0px; LINE-HEIGHT: 15px; PADDING-TOP: 2px; WHITE-SPACE: nowrap; HEIGHT: 15px
+}
+ HTML .left2_jj A:link SPAN {
+	FLOAT: left
+}
+ HTML .left2_jj A:visited SPAN {
+	FLOAT: left
+}
+.left2_jj A:hover SPAN {
+	BACKGROUND: url(/dearbook2008/images/title01.jpg) no-repeat left top
+}
+.fya:link {
+	BORDER-RIGHT: #fff 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #fff 1px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 2px; BORDER-LEFT: #fff 1px solid; COLOR: #039; PADDING-TOP: 2px; BORDER-BOTTOM: #fff 1px solid; TEXT-DECORATION: none
+}
+.fya:visited {
+	BORDER-RIGHT: #fff 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #fff 1px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 2px; BORDER-LEFT: #fff 1px solid; COLOR: #039; PADDING-TOP: 2px; BORDER-BOTTOM: #fff 1px solid; TEXT-DECORATION: none
+}
+.fya:hover {
+	BORDER-RIGHT: #5fa0ce 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #5fa0ce 1px solid; PADDING-LEFT: 4px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; BORDER-LEFT: #5fa0ce 1px solid; COLOR: #414141; PADDING-TOP: 2px; BORDER-BOTTOM: #5fa0ce 1px solid; TEXT-DECORATION: none
+}
+.rank_title A:link {
+	DISPLAY: block; BACKGROUND: url(/dearbook2008/images/rank02.jpg) no-repeat right bottom; FLOAT: left; COLOR: #644a20; LINE-HEIGHT: 24px; MARGIN-RIGHT: 7px; HEIGHT: 24px; TEXT-DECORATION: none
+}
+.rank_title A:visited {
+	DISPLAY: block; BACKGROUND: url(/dearbook2008/images/rank02.jpg) no-repeat right bottom; FLOAT: left; COLOR: #644a20; LINE-HEIGHT: 24px; MARGIN-RIGHT: 7px; HEIGHT: 24px; TEXT-DECORATION: none
+}
+.rank_title A:hover {
+	BACKGROUND: url(/dearbook2008/images/rank02.jpg) no-repeat right top; COLOR: #7e3127; TEXT-DECORATION: none
+}
+.rank_title A:link SPAN {
+	PADDING-RIGHT: 15px; DISPLAY: block; PADDING-LEFT: 15px; BACKGROUND: url(/dearbook2008/images/rank01.jpg) no-repeat left bottom; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.rank_title A:visited SPAN {
+	PADDING-RIGHT: 15px; DISPLAY: block; PADDING-LEFT: 15px; BACKGROUND: url(/dearbook2008/images/rank01.jpg) no-repeat left bottom; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.rank_title A:hover SPAN {
+	DISPLAY: block; BACKGROUND: url(/dearbook2008/images/rank01.jpg) no-repeat left top
+}
+.lsimg {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FLOAT: left; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 4px; WIDTH: 50px; BORDER-RIGHT-WIDTH: 0px
+}
+.lsds {
+	BACKGROUND: #f1f8fc; COLOR: #666; LINE-HEIGHT: 18px; BORDER-BOTTOM: #666 1px dashed
+}
+.lsdd {
+	MARGIN: 6px 0px 6px 8px
+}
+.green14ba:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #5b6f1b; TEXT-DECORATION: none
+}
+.green14ba:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #5b6f1b; TEXT-DECORATION: none
+}
+.discus {
+	CLEAR: both; BORDER-RIGHT: #f6f8f0 2px solid; PADDING-RIGHT: 14px; BORDER-TOP: #f6f8f0 2px solid; PADDING-LEFT: 14px; PADDING-BOTTOM: 12px; MARGIN: 0px; BORDER-LEFT: #f6f8f0 2px solid; PADDING-TOP: 12px; BORDER-BOTTOM: #f6f8f0 2px solid
+}
+.dis_top H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: 700; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #79893c; PADDING-TOP: 0px
+}
+.dis_top {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 14px; PADDING-BOTTOM: 0px; MARGIN: 16px 0px 0px; PADDING-TOP: 0px
+}
+.dis_com {
+	MIN-HEIGHT: 30px; MARGIN: 4px 0px; LINE-HEIGHT: 18px
+}
+.dis_act {
+	FONT-WEIGHT: 700
+}
+.dis_act A:link {
+	COLOR: #3f8ae5; TEXT-DECORATION: underline
+}
+.dis_act A:visited {
+	COLOR: #3f8ae5; TEXT-DECORATION: underline
+}
+.dis_act A:hover {
+	TEXT-DECORATION: none
+}
+.dis_timg {
+	VERTICAL-ALIGN: bottom
+}
+.dis_dat {
+	PADDING-BOTTOM: 12px; MARGIN: 12px 0px; COLOR: #666; BORDER-BOTTOM: #ccc 1px dashed
+}
+IMG.dis_dat blue12a A {
+	TEXT-DECORATION: none
+}
+.dis_ctt {
+	FONT-WEIGHT: normal; COLOR: #9a9a3c
+}
+.dic_rep {
+	MARGIN: 6px 0px; LINE-HEIGHT: 24px
+}
+.dic_rep H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 32px; PADDING-TOP: 0px
+}
+.dic_repin {
+	MARGIN-TOP: 8px; LINE-HEIGHT: 12px
+}
+.dic_repin TEXTAREA {
+	WIDTH: 360px; HEIGHT: 140px
+}
+.dic_repco {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 12px; MARGIN: 0px 0px 18px; LINE-HEIGHT: 26px; PADDING-TOP: 0px; BORDER-BOTTOM: #ccc 1px dashed
+}
+.dic_repco UL {
+	PADDING-LEFT: 20px; LIST-STYLE-TYPE: square
+}
+.info_ac {
+	BORDER-RIGHT: #dfe0e8 1px solid; BACKGROUND: url(/dearbook2008/images/info_bg.gif) #fff repeat-x 50% top; BORDER-LEFT: #dfe0e8 1px solid; WIDTH: 74px
+}
+.info_no {
+	BACKGROUND: #f8f8f8; OVERFLOW: hidden; WIDTH: 74px; BORDER-BOTTOM: #dfe0e8 1px solid
+}
+.info_eo {
+	WIDTH: 144px; BORDER-BOTTOM: #dfe0e8 1px solid
+}
+.info_nav {
+	BORDER-RIGHT: #dfe0e8 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #dfe0e8 1px solid; PADDING-LEFT: 0px; BACKGROUND: #fff; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: hidden; BORDER-LEFT: #dfe0e8 1px solid; WIDTH: 664px; PADDING-TOP: 0px; HEIGHT: 26px
+}
+.info_nav LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 6px; LIST-STYLE-TYPE: none; HEIGHT: 19px; TEXT-ALIGN: center
+}
+.info_hotdiv {
+	BORDER-RIGHT: #dfe0e8 1px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #fff; PADDING-BOTTOM: 13px; MARGIN: 0px 0px 20px 7px; BORDER-LEFT: #dfe0e8 1px solid; WIDTH: 761px; PADDING-TOP: 13px; BORDER-BOTTOM: #dfe0e8 1px solid
+}
+.hotdivh2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 14px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 97px; COLOR: #5b6f1b; LINE-HEIGHT: 26px; PADDING-TOP: 0px; BORDER-BOTTOM: #dfe0e8 1px solid; HEIGHT: 26px
+}
+.blue_ac:link {
+	FONT-WEIGHT: 700; COLOR: #1f3a87; TEXT-DECORATION: none
+}
+.blue_ac:visited {
+	FONT-WEIGHT: 700; COLOR: #1f3a87; TEXT-DECORATION: none
+}
+.blue_ac:hover {
+	TEXT-DECORATION: underline
+}
+.gary_no:link {
+	FONT-WEIGHT: 700; COLOR: #777; TEXT-DECORATION: none
+}
+.gary_no:visited {
+	FONT-WEIGHT: 700; COLOR: #777; TEXT-DECORATION: none
+}
+.gary_no:hover {
+	TEXT-DECORATION: underline
+}
+.none {
+	DISPLAY: none
+}
+.retiwen {
+	BORDER-RIGHT: #999 1px dashed; PADDING-RIGHT: 16px; BORDER-TOP: #999 1px dashed; PADDING-LEFT: 16px; BACKGROUND: #eee; PADDING-BOTTOM: 16px; MARGIN: 16px; BORDER-LEFT: #999 1px dashed; PADDING-TOP: 16px; BORDER-BOTTOM: #999 1px dashed
+}
+.rw_warp {
+	MARGIN: 0px auto; WIDTH: 940px
+}
+.point_blue {
+	BORDER-RIGHT: #eaf2fe 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #eaf2fe 1px solid; PADDING-LEFT: 20px; FONT-WEIGHT: bold; BACKGROUND: url(/dearbook2008/images/point_blue.gif) #fafcff no-repeat 10px 12px; PADDING-BOTTOM: 7px; MARGIN: 0px 0px 8px; BORDER-LEFT: #eaf2fe 1px solid; WIDTH: 920px; COLOR: #333; PADDING-TOP: 7px; BORDER-BOTTOM: #eaf2fe 1px solid; TEXT-ALIGN: left
+}
+A.noblack12:link {
+	FONT-SIZE: 12px; COLOR: #000; TEXT-DECORATION: none
+}
+A.noblack12:visited {
+	FONT-SIZE: 12px; COLOR: #000; TEXT-DECORATION: none
+}
+#person_left {
+	FLOAT: left; WIDTH: 309px
+}
+#person_right {
+	MARGIN-LEFT: 320px
+}
+#person_right A:link {
+	COLOR: #06c; LINE-HEIGHT: 20px; TEXT-DECORATION: underline
+}
+#person_right A:visited {
+	COLOR: #06c; LINE-HEIGHT: 20px; TEXT-DECORATION: underline
+}
+#person_right:hover {
+	TEXT-DECORATION: none
+}
+.person_left_wai {
+	MARGIN: 0px auto; WIDTH: 300px
+}
+.person_left_wai2 {
+	CLEAR: both; BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 20px; MARGIN: 0px auto; BORDER-LEFT: #ccc 1px solid; WIDTH: 280px; PADDING-TOP: 20px; BORDER-BOTTOM: #ccc 1px solid
+}
+.rwtitle01 {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; DISPLAY: block; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: #f1f8ff; FLOAT: left; BORDER-LEFT: #ccc 1px solid; WIDTH: 65px; COLOR: #000; LINE-HEIGHT: 25px; MARGIN-RIGHT: 5px; HEIGHT: 25px; TEXT-ALIGN: center
+}
+.rwtitle02:link {
+	BORDER-RIGHT: #bfdaf3 1px solid; BORDER-TOP: #bfdaf3 1px solid; DISPLAY: block; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: url(/dearbook2008/images/title_bg1.gif); FLOAT: left; BORDER-LEFT: #bfdaf3 1px solid; WIDTH: 65px; COLOR: #039; LINE-HEIGHT: 25px; MARGIN-RIGHT: 5px; HEIGHT: 25px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.rwtitle02:visited {
+	BORDER-RIGHT: #bfdaf3 1px solid; BORDER-TOP: #bfdaf3 1px solid; DISPLAY: block; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: url(/dearbook2008/images/title_bg1.gif); FLOAT: left; BORDER-LEFT: #bfdaf3 1px solid; WIDTH: 65px; COLOR: #039; LINE-HEIGHT: 25px; MARGIN-RIGHT: 5px; HEIGHT: 25px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.rwtitle02:hover {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BACKGROUND: #f1f8ff; BORDER-LEFT: #ccc 1px solid; TEXT-DECORATION: none
+}
+.person_brown {
+	PADDING-RIGHT: 10px; FONT-SIZE: 12px; BACKGROUND: #fff; COLOR: #ae6e09
+}
+.person_left_line {
+	BACKGROUND: url(/dearbook2008/images/line.gif) repeat-x 100px 10px
+}
+.nogray12a:link {
+	FONT-SIZE: 12px; COLOR: #777; TEXT-DECORATION: none
+}
+.nogray12a:visited {
+	FONT-SIZE: 12px; COLOR: #777; TEXT-DECORATION: none
+}
+.nogray12a:hover {
+	TEXT-DECORATION: underline
+}
+.person_right_line {
+	BORDER-BOTTOM: #ccc 1px solid
+}
+.person_right_title {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: url(/dearbook2008/images/title_bg2.gif) repeat-x; MARGIN-LEFT: 15px; WIDTH: 110px; LINE-HEIGHT: 26px; HEIGHT: 26px; TEXT-ALIGN: center
+}
+.person_right_title DIV {
+	MARGIN-TOP: 7px
+}
+.person_right_line2 {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; MIN-HEIGHT: 200px; PADDING-BOTTOM: 6px; MARGIN: 0px; LINE-HEIGHT: 20px; PADDING-TOP: 6px; BORDER-BOTTOM: #c2bbad 1px dashed
+}
+.person_right_line3 {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; MARGIN: 0px; LINE-HEIGHT: 20px; PADDING-TOP: 6px; BORDER-BOTTOM: #c2bbad 1px dashed
+}
+.renwu_left {
+	FLOAT: left; WIDTH: 180px
+}
+.renwu_right {
+	MARGIN-LEFT: 190px; COLOR: #676666
+}
+.rwfloat4 {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; FLOAT: left; PADDING-BOTTOM: 20px; WIDTH: 125px; LINE-HEIGHT: 20px; PADDING-TOP: 20px; TEXT-ALIGN: center
+}
+.person_shuoming {
+	WIDTH: 215px; COLOR: #b1b1b1
+}
+.gray67604d {
+	COLOR: #67604d; TEXT-DECORATION: underline
+}
+.shuoming_s {
+	HEIGHT: 5px
+}
+.shuoming_m {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 5px; MIN-HEIGHT: 100px; BACKGROUND: #fff; PADDING-BOTTOM: 5px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #ccc 1px solid
+}
+.shuoming_x {
+	CLEAR: both; HEIGHT: 16px
+}
+.shuoming_m IMG {
+	MARGIN-TOP: 5px; FLOAT: left; WIDTH: 38px
+}
+.shuoming_w {
+	MARGIN-LEFT: 50px
+}
+.person_more_wai1 {
+	MARGIN: 0px auto; WIDTH: 970px
+}
+.person_more_wai2 {
+	CLEAR: both; BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 20px; MARGIN: 0px auto; BORDER-LEFT: #ccc 1px solid; WIDTH: 970px; LINE-HEIGHT: 24px; PADDING-TOP: 20px; BORDER-BOTTOM: #ccc 1px solid
+}
+.zhushi {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; FLOAT: right
+}
+.person_more_line {
+	BORDER-BOTTOM: #c2bbad 1px dashed
+}
+.namea:link {
+	FONT-SIZE: 12px; COLOR: #039; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}
+.namea:visited {
+	FONT-SIZE: 12px; COLOR: #039; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}
+.namea:hover {
+	COLOR: #ff0f0f; TEXT-DECORATION: none
+}
+.line_rw {
+	PADDING-LEFT: 5px; BACKGROUND: url(/dearbook2008/images/line_rw.gif) no-repeat right 50%
+}
+.rw_zuozhe {
+	FONT-WEIGHT: 700; FONT-SIZE: 14px; MARGIN: 8px auto; COLOR: #ae6e09; TEXT-ALIGN: center
+}
+.page_window_s {
+	DISPLAY: none; WIDTH: 171px; POSITION: absolute
+}
+A.noblue12:link {
+	FONT-SIZE: 12px; COLOR: #012c83; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+A.noblue12:visited {
+	FONT-SIZE: 12px; COLOR: #012c83; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+A.noblue12:hover {
+	TEXT-DECORATION: underline
+}
+A.noblue13:hover {
+	TEXT-DECORATION: underline
+}
+A.noblack12:hover {
+	TEXT-DECORATION: underline
+}
+A.unbrown14b:hover {
+	TEXT-DECORATION: underline
+}
+.blue14b {
+	FONT-WEIGHT: 700; FONT-SIZE: 14px; COLOR: #012c83; LINE-HEIGHT: 27px
+}
